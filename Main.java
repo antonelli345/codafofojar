@@ -1,5 +1,6 @@
 package codafofojar;
 
-public class MAIN {
+
+public class Main {
     
 }
